@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">Muhammad Jawad Choudhary</h1>
 
-<!--
-**jawadcode-dot/jawadcode-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+WordPress Developer • GoHighLevel Specialist • AI Automation Builder
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I help businesses automate operations, generate leads, and build scalable systems using:
+
+- WordPress Development
+- GoHighLevel CRM
+- AI Automation
+- Lead Generation Systems
+- Landing Pages
+- Sales Funnels
+
+---
+
+## 🛠 Tech Stack
+
+- WordPress
+- PHP
+- JavaScript
+- HTML
+- CSS
+- GoHighLevel
+- OpenAI
+- Make
+- Zapier
+- Python
+
+---
+
+## 🎯 Currently Working On
+
+- AI Lead Qualification Systems
+- CRM Automation Workflows
+- Landing Page Optimization
+- Business Process Automation
+
+---
+
+## 🌐 Connect With Me
+
+LinkedIn:
+www.linkedin.com/in/jawadintech
+
+Portfolio:
+https://jawad.freelancerportfolios.com
+
+Website:
+https://jawad.code
+
+---
