@@ -1,57 +1,89 @@
-<h1 align="center">Muhammad Jawad Choudhary</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Jawad Choudhary</h1>
 
 <h3 align="center">
-WordPress Developer • GoHighLevel Specialist • AI Automation Builder
+Full Stack Developer | Automation Engineer
 </h3>
+
+<p align="center">
+Building Scalable Systems & AI-Powered Workflows
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I help businesses automate operations, generate leads, and build scalable systems using:
+I'm passionate about building efficient systems that solve real business problems.
 
-- WordPress Development
-- GoHighLevel CRM
+My work focuses on:
+
+- Full Stack Development
 - AI Automation
-- Lead Generation Systems
-- Landing Pages
-- Sales Funnels
+- CRM Systems
+- Business Process Automation
+- Landing Pages & Funnels
+- Workflow Optimization
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technologies
 
-- WordPress
-- PHP
-- JavaScript
+### Frontend
+
 - HTML
 - CSS
-- GoHighLevel
-- OpenAI
-- Make
-- Zapier
+- JavaScript
+
+### Backend
+
+- PHP
 - Python
 
+### Automation
+
+- GoHighLevel
+- Make
+- Zapier
+- OpenAI
+
+### CMS
+
+- WordPress
+
 ---
 
-## 🎯 Currently Working On
+## 🎯 Current Focus
 
-- AI Lead Qualification Systems
-- CRM Automation Workflows
-- Landing Page Optimization
-- Business Process Automation
+- AI-Powered Business Automation
+- Lead Qualification Systems
+- CRM Automation
+- Full Stack Web Applications
 
 ---
 
-## 🌐 Connect With Me
+## 📈 GitHub Stats
 
-LinkedIn:
-www.linkedin.com/in/jawadintech
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jawadcode-dot&show_icons=true)
 
-Portfolio:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jawadcode-dot&layout=compact)
+
+---
+
+## 🌎 Connect With Me
+
+**Portfolio**
+
 https://jawad.freelancerportfolios.com
 
-Website:
+**LinkedIn**
+
+https://www.linkedin.com/in/jawadintech
+
+**Website**
+
 https://jawad.code
 
 ---
+
+## ⚡ Fun Fact
+
+I enjoy building systems that save people hours of repetitive work through automation.
