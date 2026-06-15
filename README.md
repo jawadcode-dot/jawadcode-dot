@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Jawad Choudhary</h1>
+<h1 align="center">Hi 👋, I'm Jawad</h1>
 
 <h3 align="center">
 Full Stack Developer | Automation Engineer
