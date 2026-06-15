@@ -77,11 +77,6 @@ https://jawad.freelancerportfolios.com
 **LinkedIn**
 
 https://www.linkedin.com/in/jawadintech
-
-**Website**
-
-https://jawad.code
-
 ---
 
 ## ⚡ Fun Fact
