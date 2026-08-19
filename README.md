@@ -1,391 +1,271 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Jawad%20Choudhary&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Engineering%20%7C%20Automation&descAlignY=55&descSize=18" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ascii-portrait-dark.svg" />
+  <img src="assets/ascii-portrait-light.svg" width="300" alt="ascii portrait, typed on load" />
+</picture>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer+%7C+PHP+%26+Laravel;AI%2FML+Engineering+%E2%80%94+Coursera+Certified+Track;n8n+%7C+AI+Automation+%7C+Workflow+Engineering;Building+Scalable+CRMs+%26+SaaS+Products;Open+to+Remote+%26+Onsite+Engineering+Roles&font=Fira+Code&center=true&width=800&height=50&duration=3500&pause=800&color=A78BFA&vCenter=true&size=24&background=00000000"/>
-</a>
+<img src="assets/divider.svg" width="440" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Sc._Computer_Science-In_Progress-6D28D9?style=flat-square&logo=googlescholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/Islamia_University-Bahawalpur-4C1D95?style=flat-square&logo=googlescholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/Location-Bahawalpur%2C_Pakistan-7C3AED?style=flat-square&logo=googlemaps&logoColor=white"/>
-
-<br/><br/>
-
-<a href="https://jawad.freelancerportfolios.com/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://linkedin.com/in/jawadintech"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:jawadintech@gmail.com"><img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/jawadintech"><img src="https://img.shields.io/badge/GitHub-1e1b4b?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=jawadintech&label=Profile%20Views&color=6d28d9&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/jawadintech?label=Followers&style=flat-square&color=7c3aed&logo=github"/>
-<img src="https://img.shields.io/github/stars/jawadintech?label=Stars&style=flat-square&color=8b5cf6&logo=github"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=jawad+choudhary;full-stack+developer;laravel+%2F+codeigniter+%2F+mysql;learning%3A+ai+engineering+%40coursera;building%3A+n8n+automation+workflows&font=Fira+Code&center=true&width=560&height=40&duration=2600&pause=700&color=A78BFA&vCenter=true&size=17&background=00000000" />
 
 </div>
 
 <br/>
 
-## ⟡ About
+```text
+$ whoami
+> jawad choudhary — full-stack developer, bahawalpur, pk
 
-```yaml
-engineer:
-  name: "Jawad Choudhary"
-  title: "Full-Stack Developer · AI Engineering (in progress)"
-  focus:
-    - Software Engineering & Product Development
-    - AI / ML Engineering — Coursera AI Engineering track
-    - AI Automation & Agentic Workflows (n8n)
-    - Full-Stack Web Development (Laravel, CodeIgniter, WordPress)
-  mindset: "Ship reliable, client-facing systems; automate everything repeatable."
+$ cat status.txt
+> open to remote / onsite / freelance engineering roles
+
+$ ./stack --list
+> php · laravel · codeigniter · mysql · js · wordpress
+
+$ ps -ef | grep learning
+> ai-engineering (coursera)    running
+> n8n-automation-workflows     running
 ```
-
-Full-Stack Developer with hands-on production experience building **custom CRMs, lead-management platforms, school-management systems, and content-driven websites** for clients across the US and Pakistan. Core strength is the PHP ecosystem — **Laravel** and **CodeIgniter** — paired with **MySQL/PostgreSQL**, REST API integration, and role-based access architecture for real business workflows.
-
-Currently expanding into **AI Engineering** through a structured Coursera track and building hands-on **AI automation pipelines with n8n** — connecting LLMs, APIs, and business tools into agentic workflows that remove manual work from CRM, reporting, and lead-handling processes. The goal is a product-engineering mindset: not just writing code, but shipping systems that measurably improve how a business operates.
-
-**Open To:**
 
 <div align="center">
 
-| Remote Roles | Onsite Roles | Freelance / Contract | AI Automation Projects |
-|:---:|:---:|:---:|:---:|
-| ✅ | ✅ | ✅ | ✅ |
+<a href="https://jawad.freelancerportfolios.com/"><img src="https://img.shields.io/badge/portfolio-8B5CF6?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://linkedin.com/in/jawadintech"><img src="https://img.shields.io/badge/linkedin-6D28D9?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:jawadintech@gmail.com"><img src="https://img.shields.io/badge/email-4C1D95?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/jawadintech"><img src="https://img.shields.io/badge/github-1e1b4b?style=flat-square&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=jawadintech&label=profile+views&color=6d28d9&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/jawadintech?label=followers&style=flat-square&color=7c3aed&logo=github"/>
+<img src="https://img.shields.io/github/stars/jawadintech?label=stars&style=flat-square&color=8b5cf6&logo=github"/>
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" />
 
-## ⟡ Tech Stack
+## about
 
-**Languages**
+```yaml
+role: full-stack developer
+based_in: bahawalpur, pakistan
+core: [laravel, codeigniter, mysql, postgresql, wordpress, javascript]
+currently_learning: ai engineering — coursera specialization
+currently_building: agentic automation workflows with n8n
+mindset: ship reliable client-facing systems, automate the repeatable parts
+open_to: [remote, onsite, freelance / contract, ai automation projects]
+```
+
+Full-stack developer with production experience building custom CRMs, lead-management platforms, school-management systems, and content-driven websites for clients across the US and Pakistan. Core strength is the PHP ecosystem — Laravel and CodeIgniter — paired with MySQL/PostgreSQL, REST API integration, and role-based access architecture for real business workflows.
+
+Currently expanding into AI engineering through a structured Coursera track and building automation pipelines with n8n — wiring LLMs, APIs, and business tools into agentic workflows that remove manual work from CRM, reporting, and lead-handling processes.
+
+<img src="assets/divider.svg" width="100%" />
+
+## tech stack
+
+**languages**
 
 <img src="https://skillicons.dev/icons?i=php,js,html,css,python,sql&theme=dark" />
 
-**Frontend**
+**frontend**
 
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery,figma&theme=dark" />
 
-**Backend & Databases**
+**backend & databases**
 
 <img src="https://skillicons.dev/icons?i=laravel,codeigniter,mysql,postgres,wordpress&theme=dark" />
 
-**Cloud, DevOps & Tooling**
+**tooling & automation**
 
-<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,postman,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,postman,vscode&theme=dark" /> <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/> <img src="https://img.shields.io/badge/streamlit-6D28D9?style=flat-square&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/coursera-4C1D95?style=flat-square&logo=coursera&logoColor=white"/>
 
-**AI / Automation**
+<img src="assets/divider.svg" width="100%" />
 
-<img src="https://skillicons.dev/icons?i=py,tensorflow&theme=dark" /> <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-6D28D9?style=flat-square&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Coursera-4C1D95?style=flat-square&logo=coursera&logoColor=white"/>
-
----
-
-## ⟡ AI / ML & Automation Expertise
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|:---|:---:|:---|
-| AI Engineering Fundamentals | `Learning` | Structured Coursera AI Engineering specialization — LLM fundamentals, prompt design, applied ML workflows |
-| AI Automation (n8n) | `Applied` | Building agentic and rule-based automation workflows connecting LLMs, REST APIs, CRMs, and internal tools |
-| Applied Data Analytics | `Applied` | Built a Python + Streamlit productivity analytics engine with activity classification and cycle detection |
-| API-Driven Intelligence | `Applied` | Integrating third-party and AI APIs into existing Laravel/CodeIgniter systems for smarter automation |
-| Workflow Orchestration | `Applied` | Designing multi-step automation pipelines for lead capture, follow-ups, and reporting |
-
-</div>
-
----
-
-## ⟡ Featured Projects
+## featured projects
 
 <details>
-<summary><b>💰 CashApp — Mobile Expense & Cash-Management System</b></summary>
+<summary><b>cashapp — mobile expense & cash-management system</b></summary>
 <br/>
 
-Mobile expense and cash-management application pairing a **Flutter** client with a **PHP REST API** and **MySQL** backend, covering authentication, transaction logging, categorized expense tracking, history, and exportable summaries.
+Mobile expense and cash-management application pairing a Flutter client with a PHP REST API and MySQL backend, covering authentication, transaction logging, categorized expense tracking, history, and exportable summaries.
 
-| Attribute | Detail |
+| attribute | detail |
 |:---|:---|
-| **Stack** | Flutter · PHP · MySQL · REST API |
-| **Scale** | Multi-user, category-based transaction ledger |
-| **Performance** | Optimized query layer for real-time transaction history |
-| **Security** | Token-based authentication, server-side validation |
-| **Impact** | Replaced manual expense tracking with a structured digital workflow |
-| **Repository** | `Private / On Request` |
-
-A full mobile-to-backend pipeline: the Flutter client consumes a versioned PHP REST API backed by MySQL, with authenticated endpoints for transaction CRUD, category management, and exportable financial summaries.
+| stack | flutter · php · mysql · rest api |
+| scale | multi-user, category-based transaction ledger |
+| performance | optimized query layer for real-time transaction history |
+| security | token-based auth, server-side validation |
+| impact | replaced manual expense tracking with a structured digital workflow |
+| repository | private / on request |
 
 </details>
 
 <details>
-<summary><b>📊 Productivity Tracker — Python + Streamlit Analytics Engine</b></summary>
+<summary><b>productivity tracker — python + streamlit analytics engine</b></summary>
 <br/>
 
-Productivity analytics tool that generates daily activity reports, classifies web activity as **productive, neutral, or distracting**, detects productivity cycles, and analyzes focus sessions with historical data rollups.
+Productivity analytics tool generating daily activity reports, classifying web activity as productive, neutral, or distracting, detecting productivity cycles, and analyzing focus sessions with historical rollups.
 
-| Attribute | Detail |
+| attribute | detail |
 |:---|:---|
-| **Stack** | Python · Streamlit · Pandas |
-| **Scale** | Daily/historical activity dataset with rollup aggregation |
-| **Performance** | Efficient batch classification over activity logs |
-| **Security** | Local-first data processing |
-| **Impact** | Surfaces focus patterns and productivity cycles from raw activity data |
-| **Repository** | `Private / On Request` |
-
-Combines rule-based activity classification with time-series analysis to detect focus sessions and productivity cycles, rendered through an interactive Streamlit dashboard for daily and historical review.
+| stack | python · streamlit · pandas |
+| scale | daily/historical activity dataset with rollup aggregation |
+| performance | efficient batch classification over activity logs |
+| security | local-first data processing |
+| impact | surfaces focus patterns and productivity cycles from raw activity data |
+| repository | private / on request |
 
 </details>
 
 <details>
-<summary><b>🧭 Lead Management System — Laravel CRM Platform</b></summary>
+<summary><b>lead management system — laravel crm platform</b></summary>
 <br/>
 
 Custom lead-management application built for client sales teams, featuring advanced search, filtering, follow-up reminders, and role-based access control.
 
-| Attribute | Detail |
+| attribute | detail |
 |:---|:---|
-| **Stack** | Laravel · MySQL · Blade |
-| **Scale** | Multi-role sales team CRM |
-| **Performance** | Indexed search & filtering across lead datasets |
-| **Security** | Role-based access control (RBAC) |
-| **Impact** | Faster sales response times and streamlined lead handling |
-| **Repository** | `Private / On Request` |
-
-Built end-to-end on Laravel with a role-based interface separating admin, manager, and sales-rep permissions, backed by an optimized MySQL schema for high-volume lead search and filtering.
+| stack | laravel · mysql · blade |
+| scale | multi-role sales team crm |
+| performance | indexed search & filtering across lead datasets |
+| security | role-based access control (rbac) |
+| impact | faster sales response times and streamlined lead handling |
+| repository | private / on request |
 
 </details>
 
 <details>
-<summary><b>🏫 School Management Dashboard — CodeIgniter Admin Suite</b></summary>
+<summary><b>school management dashboard — codeigniter admin suite</b></summary>
 <br/>
 
-Backend and admin panel suite for a School Management System, with API integrations, interactive charts, and reporting dashboards for attendance and performance tracking.
+Backend and admin panel suite for a school management system, with api integrations, interactive charts, and reporting dashboards for attendance and performance tracking.
 
-| Attribute | Detail |
+| attribute | detail |
 |:---|:---|
-| **Stack** | CodeIgniter · MySQL · Chart.js |
-| **Scale** | Multi-panel admin system (attendance, performance, reporting) |
-| **Performance** | Chart-driven dashboards over aggregated academic data |
-| **Security** | Admin-gated panel access |
-| **Impact** | Digitized attendance & performance tracking for institutional use |
-| **Repository** | `Private / On Request` |
-
-Architected around CodeIgniter's MVC structure, with dedicated admin panels for attendance and performance, driven by REST API integrations and interactive Chart.js reporting dashboards.
+| stack | codeigniter · mysql · chart.js |
+| scale | multi-panel admin system (attendance, performance, reporting) |
+| performance | chart-driven dashboards over aggregated academic data |
+| security | admin-gated panel access |
+| impact | digitized attendance & performance tracking for institutional use |
+| repository | private / on request |
 
 </details>
 
 <details>
-<summary><b>🌐 Client Web Delivery — Figma-to-WordPress Pipeline</b></summary>
+<summary><b>client web delivery — figma-to-wordpress pipeline</b></summary>
 <br/>
 
 Repeatable delivery pipeline converting client Figma designs into responsive, production-ready WordPress websites.
 
-| Attribute | Detail |
+| attribute | detail |
 |:---|:---|
-| **Stack** | Figma · HTML5 · CSS3 · Bootstrap · WordPress |
-| **Scale** | Multiple client site deliveries |
-| **Performance** | Responsive, cross-device optimized builds |
-| **Security** | Hardened WordPress theme configuration |
-| **Impact** | Consistent design-to-live-site turnaround for client engagements |
-| **Repository** | `Private / On Request` |
-
-Standardized workflow for translating Figma UI/UX designs into pixel-accurate, responsive WordPress themes, with direct client collaboration on content and UX refinement.
+| stack | figma · html5 · css3 · bootstrap · wordpress |
+| scale | multiple client site deliveries |
+| performance | responsive, cross-device optimized builds |
+| security | hardened wordpress theme configuration |
+| impact | consistent design-to-live-site turnaround for client engagements |
+| repository | private / on request |
 
 </details>
 
----
+<img src="assets/divider.svg" width="100%" />
 
-## ⟡ Experience
+## experience
 
-**Software Developer — GTsol 360**, Bahawalpur, Pakistan (On-site)
-`April 2024 – Present`
+**software developer — gtsol 360**, bahawalpur, pakistan (on-site)
+`april 2024 – present`
 
-Building production systems for client-facing business operations — CRM, education, and finance-tracking platforms — from architecture through deployment.
+- built a custom lead-management application using laravel and mysql with advanced search, filtering, follow-up reminders, and role-based access
+- developed a school management system (backend + admin panels) using codeigniter with api integrations, interactive charts, and reporting dashboards
+- delivered a business cash recording & management tool, digitizing daily cash records and implementing api flows with postman
 
-- Built a custom lead-management application using Laravel and MySQL with advanced search, filtering, follow-up reminders, and role-based access
-- Developed a School Management System (backend + admin panels) using CodeIgniter with API integrations, interactive charts, and reporting dashboards
-- Delivered a Business Cash Recording & Management tool, digitizing daily cash records and implementing API flows with Postman
-
-`Laravel` `CodeIgniter` `MySQL` `REST API` `Postman` `RBAC`
+`laravel` `codeigniter` `mysql` `rest api` `postman` `rbac`
 
 <br/>
 
-**Volunteer Web Developer (Remote) — Delta Rising Foundation**, USA
-`January 2026 – Present`
+**volunteer web developer (remote) — delta rising foundation**, usa
+`january 2026 – present`
 
-Contributing web development support to a U.S.-based nonprofit organization.
+- contributing ongoing remote web development support to a u.s.-based nonprofit organization
 
-- Providing ongoing remote web development contributions to support the foundation's digital presence
-
-`Web Development` `Remote Collaboration`
+`web development` `remote collaboration`
 
 <br/>
 
-**CRM Expert (Remote) — Upsourcemedia**, River Ave, Holland, MI, USA
-`February 2023 – March 2024`
+**crm expert (remote) — upsourcemedia**, river ave, holland, mi, usa
+`february 2023 – march 2024`
 
-Managed and customized client CRM instances end-to-end, from funnel construction to automation logic.
+- managed and customized client crm instances: created pages, attached domains, built funnels, and automated workflows to streamline lead capture and customer engagement
+- developed custom crm features and integrations to meet client requirements, improving customer tracking and automations
 
-- Managed and customized client CRM instances: created pages, attached domains, built funnels, and automated workflows to streamline lead capture and customer engagement
-- Developed custom CRM features and integrations to meet client requirements, improving customer tracking and automations
-
-`CRM Customization` `HubSpot` `Zoho` `Workflow Automation`
+`crm customization` `hubspot` `zoho` `workflow automation`
 
 <br/>
 
-**Custom Website Developer (Remote) — Metrobusinesses**, Laguna Beach, CA, USA
-`June 2022 – December 2022`
+**custom website developer (remote) — metrobusinesses**, laguna beach, ca, usa
+`june 2022 – december 2022`
 
-Converted client Figma designs into responsive, production-ready websites.
+- converted figma designs into responsive, user-friendly websites using html/css/bootstrap and custom wordpress themes
+- collaborated directly with clients on content strategy and ux refinement
 
-- Converted Figma designs into responsive, user-friendly websites using HTML/CSS/Bootstrap and custom WordPress themes
-- Collaborated directly with clients on content strategy and UX refinement
+`html5` `css3` `bootstrap` `wordpress` `figma`
 
-`HTML5` `CSS3` `Bootstrap` `WordPress` `Figma`
+<img src="assets/divider.svg" width="100%" />
 
----
-
-## ⟡ Achievements
+## achievements
 
 <div align="center">
 
-| Recognition | Details |
+| recognition | details |
 |:---|:---|
-| Sustained Client Delivery | Delivered 3 full production systems (CRM, School Management, Cash Management) in a single engineering role at GTsol 360 |
-| Nonprofit Contribution | Selected as Volunteer Web Developer for a U.S.-based nonprofit, Delta Rising Foundation |
-| Multi-Market Remote Track Record | Delivered client work remotely across US-based agencies (Michigan, California) since 2022 |
-| Self-Directed AI Upskilling | Pursuing structured AI Engineering education via Coursera alongside applied n8n automation projects |
+| sustained client delivery | delivered 3 full production systems (crm, school management, cash management) in a single engineering role at gtsol 360 |
+| nonprofit contribution | selected as volunteer web developer for a u.s.-based nonprofit, delta rising foundation |
+| multi-market remote track record | delivered client work remotely across us-based agencies (michigan, california) since 2022 |
+| self-directed ai upskilling | pursuing structured ai engineering education via coursera alongside applied n8n automation projects |
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" />
 
-## ⟡ Certifications
-
-<div align="center">
-
-**AWS**
-
-<img src="https://img.shields.io/badge/AWS-In_Progress-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-**Oracle**
-
-<img src="https://img.shields.io/badge/Oracle-In_Progress-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-**NPTEL**
-
-<img src="https://img.shields.io/badge/NPTEL-In_Progress-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-
-**Cisco**
-
-<img src="https://img.shields.io/badge/Cisco-In_Progress-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-**Coursera**
-
-<img src="https://img.shields.io/badge/AI_Engineering-Coursera-4C1D95?style=for-the-badge&logo=coursera&logoColor=white"/>
-
-</div>
-
----
-
-## ⟡ Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/jawadintech"><img src="https://img.shields.io/badge/LeetCode-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://geeksforgeeks.org/user/jawadintech"><img src="https://img.shields.io/badge/GeeksforGeeks-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-<a href="https://hackerrank.com/jawadintech"><img src="https://img.shields.io/badge/HackerRank-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-<a href="https://codechef.com/users/jawadintech"><img src="https://img.shields.io/badge/CodeChef-8B5CF6?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-
-</div>
-
----
-
-## ⟡ GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jawadintech&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=a78bfa&icon_color=8b5cf6&text_color=c4b5fd&ring_color=7c3aed" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jawadintech&theme=radical&hide_border=true&background=0d0221&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawadintech&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=a78bfa&text_color=c4b5fd" width="49%"/>
-
-</div>
-
----
-
-## ⟡ GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jawadintech&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" />
-
-</div>
-
----
-
-## ⟡ Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jawadintech&theme=redical&bg_color=0d0221&color=a78bfa&line=8b5cf6&point=c4b5fd&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-## ⟡ Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/jawadintech/jawadintech/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-
-</div>
-
----
-
-## ⟡ Current Focus
+## current focus
 
 ```yaml
 current_focus:
   learning:
-    - AI Engineering — Coursera specialization (LLMs, applied ML, prompt engineering)
-    - Advanced n8n workflow architecture & agentic automation patterns
-    - System design for scalable SaaS backends
+    - ai engineering — coursera specialization (llms, applied ml, prompt engineering)
+    - advanced n8n workflow architecture & agentic automation patterns
+    - system design for scalable saas backends
   building:
-    - AI-powered automation workflows for CRM & lead-handling pipelines
-    - Production Laravel & CodeIgniter platforms for client engagements
+    - ai-powered automation workflows for crm & lead-handling pipelines
+    - production laravel & codeigniter platforms for client engagements
   exploring:
-    - LLM API integration into existing PHP systems
-    - Cloud deployment & DevOps fundamentals (AWS)
+    - llm api integration into existing php systems
+    - cloud deployment & devops fundamentals (aws)
   open_to:
-    - Remote / Onsite Full-Stack Engineering roles
-    - AI Automation & AI Engineering opportunities
-    - Freelance & contract product engineering
+    - remote / onsite full-stack engineering roles
+    - ai automation & ai engineering opportunities
+    - freelance & contract product engineering
 ```
 
----
-
-## ⟡ Connect
+<img src="assets/divider.svg" width="100%" />
 
 <div align="center">
 
-<a href="mailto:jawadintech@gmail.com"><img src="https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/jawadintech"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/jawadintech"><img src="https://img.shields.io/badge/GitHub-1e1b4b?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://jawad.freelancerportfolios.com/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+## connect
 
-</div>
+<a href="mailto:jawadintech@gmail.com"><img src="https://img.shields.io/badge/gmail-4C1D95?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/jawadintech"><img src="https://img.shields.io/badge/linkedin-6D28D9?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/jawadintech"><img src="https://img.shields.io/badge/github-1e1b4b?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://jawad.freelancerportfolios.com/"><img src="https://img.shields.io/badge/portfolio-8B5CF6?style=flat-square&logo=vercel&logoColor=white"/></a>
 
----
+<br/><br/>
 
-<div align="center">
+<img src="assets/divider.svg" width="440" />
 
-*"Good engineering isn't just writing code — it's building systems that quietly make people's work easier."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
+<sub>good engineering isn't just writing code — it's building systems that quietly make people's work easier.</sub>
 
 </div>

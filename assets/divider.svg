@@ -1,0 +1,19 @@
+<svg viewBox="0 0 900 6" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="divider">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#a78bfa" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      .bar { animation: slide 3.2s ease-in-out infinite; }
+      @keyframes slide {
+        0%   { transform: translateX(-260px); opacity: .35; }
+        50%  { transform: translateX(560px); opacity: 1; }
+        100% { transform: translateX(1380px); opacity: .35; }
+      }
+    </style>
+  </defs>
+  <rect x="0" y="2.4" width="900" height="1.2" fill="#2a2140"/>
+  <rect class="bar" x="0" y="0" width="260" height="6" fill="url(#g)"/>
+</svg>
